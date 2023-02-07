@@ -1,13 +1,13 @@
 ,date,team_x,actual_x,prediction_x,opponent_x,result_x,teamType_x,teamOdds_x,opponentOdds_x,actual_y,prediction_y,team_y,opponent_y,result_y,teamType_y,teamOdds_y,opponentOdds_y,correct_prediction,different_prediction,lower_odds_winner
-0,2022-09-10,Exeter,1,0,Leicester,W,home,2.06,1.8,0,0,Leicester,Exeter,L,away,1.8,2.06,False,False,False
+0,2022-09-10,Exeter,1,0,Leicester,W,home,2.06,1.8,0,1,Leicester,Exeter,L,away,1.8,2.06,False,True,False
 1,2022-09-17,Bath,0,0,Sale,L,home,1.99,1.83,1,1,Sale,Bath,W,away,1.83,1.99,True,True,True
 2,2022-09-23,Bath,0,1,Wasps,L,home,1.82,2.01,1,0,Wasps,Bath,W,away,2.01,1.82,False,True,False
-3,2022-09-24,Worcester,1,0,Newcastle,W,home,1.74,2.14,0,0,Newcastle,Worcester,L,away,2.14,1.74,False,False,True
-4,2022-09-30,Newcastle,1,0,Bristol,W,home,2.4,1.59,0,0,Bristol,Newcastle,L,away,1.59,2.4,False,False,False
-5,2022-10-21,London Irish,0,0,Gloucester,L,home,1.74,2.12,1,0,Gloucester,London Irish,W,away,2.12,1.74,False,False,False
+3,2022-09-24,Worcester,1,1,Newcastle,W,home,1.74,2.14,0,0,Newcastle,Worcester,L,away,2.14,1.74,True,True,True
+4,2022-09-30,Newcastle,1,0,Bristol,W,home,2.4,1.59,0,1,Bristol,Newcastle,L,away,1.59,2.4,False,True,False
+5,2022-10-21,London Irish,0,1,Gloucester,L,home,1.74,2.12,1,0,Gloucester,London Irish,W,away,2.12,1.74,False,True,False
 6,2022-11-04,Northampton,1,1,Exeter,W,home,1.64,2.3,0,0,Exeter,Northampton,L,away,2.3,1.64,True,True,True
-7,2023-01-01,Northampton,1,0,Harlequins,W,home,1.52,2.55,0,0,Harlequins,Northampton,L,away,2.55,1.52,False,False,True
-8,2023-01-08,Harlequins,0,0,Sale,L,home,2.14,1.74,1,0,Sale,Harlequins,W,away,1.74,2.14,False,False,True
+7,2023-01-01,Northampton,1,1,Harlequins,W,home,1.52,2.55,0,0,Harlequins,Northampton,L,away,2.55,1.52,True,True,True
+8,2023-01-08,Harlequins,0,0,Sale,L,home,2.14,1.74,1,1,Sale,Harlequins,W,away,1.74,2.14,True,True,True
 9,2022-09-10,London Irish,1,1,Worcester,W,home,1.13,6.0,0,0,Worcester,London Irish,L,away,6.0,1.13,True,True,True
 10,2022-09-10,Newcastle,0,0,Harlequins,L,home,2.92,1.42,1,1,Harlequins,Newcastle,W,away,1.42,2.92,True,True,True
 11,2022-09-10,Bristol,1,1,Bath,W,home,1.24,4.04,0,0,Bath,Bristol,L,away,4.04,1.24,True,True,True

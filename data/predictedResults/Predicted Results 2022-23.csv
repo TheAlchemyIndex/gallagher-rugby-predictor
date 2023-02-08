@@ -1,77 +1,78 @@
-,actual_x,prediction_x,date,team_x,opponent_x,result_x,teamOdds_x,opponentOdds_x,teamType_x,actual_y,prediction_y,team_y,opponent_y,result_y,teamOdds_y,opponentOdds_y,teamType_y,correct_prediction,different_prediction,lower_odds_winner,prediction_certainty,bet,return
-0,1,1,2022-09-10,London Irish,Worcester,W,1.13,6.0,home,0,0,Worcester,London Irish,L,6.0,1.13,away,True,True,True,1,10,11.299999999999999
-3,0,0,2022-09-10,Newcastle,Harlequins,L,2.92,1.42,home,1,1,Harlequins,Newcastle,W,1.42,2.92,away,True,True,True,1,10,14.2
-4,1,0,2022-09-10,Exeter,Leicester,W,2.06,1.8,home,0,1,Leicester,Exeter,L,1.8,2.06,away,False,True,False,2,5,0.0
-6,1,1,2022-09-10,Bristol,Bath,W,1.24,4.04,home,0,0,Bath,Bristol,L,4.04,1.24,away,True,True,True,1,10,12.4
-8,1,1,2022-09-11,Gloucester,Wasps,W,1.36,3.16,home,0,0,Wasps,Gloucester,L,3.16,1.36,away,True,True,True,1,10,13.600000000000001
-9,1,1,2022-09-11,Sale,Northampton,W,1.4,3.01,home,0,0,Northampton,Sale,L,3.01,1.4,away,True,True,True,1,10,14.0
-12,0,0,2022-09-17,Bath,Sale,L,1.99,1.83,home,1,1,Sale,Bath,W,1.83,1.99,away,True,True,True,2,5,9.15
-14,1,1,2022-09-17,Northampton,London Irish,W,1.42,2.89,home,0,0,London Irish,Northampton,L,2.89,1.42,away,True,True,True,1,10,14.2
-17,0,1,2022-09-17,Wasps,Bristol,L,1.52,2.59,home,1,0,Bristol,Wasps,W,2.59,1.52,away,False,True,False,1,10,0.0
-19,1,1,2022-09-17,Leicester,Newcastle,W,1.05,9.0,home,0,0,Newcastle,Leicester,L,9.0,1.05,away,True,True,True,1,10,10.5
-20,0,0,2022-09-17,Harlequins,Saracens,L,2.62,1.5,home,1,1,Saracens,Harlequins,W,1.5,2.62,away,True,True,True,1,10,15.0
-22,0,0,2022-09-18,Worcester,Exeter,L,5.62,1.13,home,1,1,Exeter,Worcester,W,1.13,5.62,away,True,True,True,1,10,11.299999999999999
-24,0,1,2022-09-23,Bath,Wasps,L,1.82,2.01,home,1,0,Wasps,Bath,W,2.01,1.82,away,False,True,False,2,5,0.0
-27,0,0,2022-09-24,Northampton,Leicester,L,1.82,2.03,home,1,1,Leicester,Northampton,W,2.03,1.82,away,True,True,False,1,10,20.299999999999997
-30,1,1,2022-09-24,Saracens,Gloucester,W,1.21,4.3,home,0,0,Gloucester,Saracens,L,4.3,1.21,away,True,True,True,1,10,12.1
-31,1,1,2022-09-24,Bristol,London Irish,W,1.31,3.47,home,0,0,London Irish,Bristol,L,3.47,1.31,away,True,True,True,1,10,13.100000000000001
-32,1,1,2022-09-24,Worcester,Newcastle,W,1.74,2.14,home,0,0,Newcastle,Worcester,L,2.14,1.74,away,True,True,True,2,5,8.7
-34,1,1,2022-09-25,Exeter,Harlequins,W,1.29,3.65,home,0,0,Harlequins,Exeter,L,3.65,1.29,away,True,True,True,1,10,12.9
-37,1,0,2022-09-30,Newcastle,Bristol,W,2.4,1.59,home,0,1,Bristol,Newcastle,L,1.59,2.4,away,False,True,False,2,5,0.0
-38,1,1,2022-10-01,Saracens,Leicester,W,1.42,2.89,home,0,0,Leicester,Saracens,L,2.89,1.42,away,True,True,True,1,10,14.2
-39,1,1,2022-10-01,Sale,Exeter,W,1.61,2.34,home,0,0,Exeter,Sale,L,2.34,1.61,away,True,True,True,1,10,16.1
-41,1,1,2022-10-01,London Irish,Bath,W,1.29,3.58,home,0,0,Bath,London Irish,L,3.58,1.29,away,True,True,True,1,10,12.9
-44,1,1,2022-10-02,Harlequins,Northampton,W,1.45,2.78,home,0,0,Northampton,Harlequins,L,2.78,1.45,away,True,True,True,1,10,14.5
-47,0,0,2022-10-07,Bristol,Exeter,L,2.02,1.82,home,1,1,Exeter,Bristol,W,1.82,2.02,away,True,True,True,1,10,18.2
-48,0,0,2022-10-08,Bath,Gloucester,L,3.28,1.34,home,1,1,Gloucester,Bath,W,1.34,3.28,away,True,True,True,1,10,13.4
-50,0,1,2022-10-08,Leicester,Sale,L,1.33,3.34,home,1,0,Sale,Leicester,W,3.34,1.33,away,False,True,False,1,10,0.0
-52,0,0,2022-10-09,Wasps,Northampton,L,1.87,1.95,home,1,1,Northampton,Wasps,W,1.95,1.87,away,True,True,False,1,10,19.5
-53,0,0,2022-10-09,Newcastle,Saracens,L,3.86,1.26,home,1,1,Saracens,Newcastle,W,1.26,3.86,away,True,True,True,1,10,12.6
-57,1,1,2022-10-14,Sale,London Irish,W,1.18,4.8,home,0,0,London Irish,Sale,L,4.8,1.18,away,True,True,True,1,10,11.799999999999999
-58,1,1,2022-10-15,Northampton,Newcastle,W,1.08,7.32,home,0,0,Newcastle,Northampton,L,7.32,1.08,away,True,True,True,1,10,10.8
-60,1,1,2022-10-15,Saracens,Bath,W,1.04,10.08,home,0,0,Bath,Saracens,L,10.08,1.04,away,True,True,True,1,10,10.4
-63,1,1,2022-10-15,Gloucester,Bristol,W,1.28,3.73,home,0,0,Bristol,Gloucester,L,3.73,1.28,away,True,True,True,1,10,12.8
-64,0,1,2022-10-16,Harlequins,Leicester,L,1.67,2.23,home,1,0,Leicester,Harlequins,W,2.23,1.67,away,False,True,False,1,10,0.0
-66,0,1,2022-10-21,London Irish,Gloucester,L,1.74,2.12,home,1,0,Gloucester,London Irish,W,2.12,1.74,away,False,True,False,2,5,0.0
-69,0,1,2022-10-22,Exeter,Saracens,L,1.77,2.09,home,1,0,Saracens,Exeter,W,2.09,1.77,away,False,True,False,1,10,0.0
-70,1,0,2022-10-22,Bath,Northampton,W,2.57,1.51,home,0,1,Northampton,Bath,L,1.51,2.57,away,False,True,False,1,10,0.0
-72,0,1,2022-10-23,Sale,Harlequins,L,1.29,3.59,home,1,0,Harlequins,Sale,W,3.59,1.29,away,False,True,False,1,10,0.0
-74,1,0,2022-10-28,Gloucester,Exeter,W,1.88,1.96,home,0,1,Exeter,Gloucester,L,1.96,1.88,away,False,True,True,1,10,0.0
-76,1,1,2022-10-29,Harlequins,London Irish,W,1.24,4.01,home,0,0,London Irish,Harlequins,L,4.01,1.24,away,True,True,True,1,10,12.4
-77,1,1,2022-10-29,Northampton,Bristol,W,1.78,2.07,home,0,0,Bristol,Northampton,L,2.07,1.78,away,True,True,True,1,10,17.8
-81,1,1,2022-10-30,Saracens,Sale,W,1.51,2.59,home,0,0,Sale,Saracens,L,2.59,1.51,away,True,True,True,1,10,15.1
-83,1,1,2022-11-04,Northampton,Exeter,W,1.64,2.3,home,0,0,Exeter,Northampton,L,2.3,1.64,away,True,True,True,2,5,8.2
-85,1,1,2022-11-05,Sale,Gloucester,W,1.25,3.9,home,0,0,Gloucester,Sale,L,3.9,1.25,away,True,True,True,1,10,12.5
-87,0,0,2022-11-05,Bristol,Saracens,L,3.14,1.36,home,1,1,Saracens,Bristol,W,1.36,3.14,away,True,True,True,1,10,13.600000000000001
-89,0,1,2022-11-05,Newcastle,Bath,L,1.67,2.24,home,1,0,Bath,Newcastle,W,2.24,1.67,away,False,True,False,1,10,0.0
-90,1,0,2022-11-11,Bath,Leicester,W,2.61,1.51,home,0,1,Leicester,Bath,L,1.51,2.61,away,False,True,False,1,10,0.0
-93,0,1,2022-11-12,Gloucester,Newcastle,L,1.14,5.51,home,1,0,Newcastle,Gloucester,W,5.51,1.14,away,False,True,False,1,10,0.0
-95,1,1,2022-11-12,Exeter,London Irish,W,1.49,2.65,home,0,0,London Irish,Exeter,L,2.65,1.49,away,True,True,True,1,10,14.9
-96,1,1,2022-11-13,Saracens,Northampton,W,1.41,2.94,home,0,0,Northampton,Saracens,L,2.94,1.41,away,True,True,True,1,10,14.1
-99,1,1,2022-11-25,Harlequins,Gloucester,W,1.43,2.88,home,0,0,Gloucester,Harlequins,L,2.88,1.43,away,True,True,True,1,10,14.299999999999999
-101,1,0,2022-11-25,Newcastle,Exeter,W,2.27,1.65,home,0,1,Exeter,Newcastle,L,1.65,2.27,away,False,True,False,1,10,0.0
-103,1,1,2022-11-26,Sale,Bristol,W,1.26,3.82,home,0,0,Bristol,Sale,L,3.82,1.26,away,True,True,True,1,10,12.6
-105,1,1,2022-11-27,Leicester,London Irish,W,1.24,4.02,home,0,0,London Irish,Leicester,L,4.02,1.24,away,True,True,True,1,10,12.4
-107,0,0,2022-12-02,Bath,Harlequins,L,2.08,1.77,home,1,1,Harlequins,Bath,W,1.77,2.08,away,True,True,True,1,10,17.7
-108,0,1,2022-12-03,Bristol,Leicester,D,2.22,1.67,home,0,0,Leicester,Bristol,D,1.67,2.22,away,False,True,False,1,10,0.0
-110,1,1,2022-12-03,Gloucester,Northampton,W,1.59,2.38,home,0,0,Northampton,Gloucester,L,2.38,1.59,away,True,True,True,1,10,15.9
-111,1,1,2022-12-03,London Irish,Newcastle,W,1.28,3.68,home,0,0,Newcastle,London Irish,L,3.68,1.28,away,True,True,True,1,10,12.8
-115,1,0,2022-12-23,Newcastle,Sale,W,2.66,1.5,home,0,1,Sale,Newcastle,L,1.5,2.66,away,False,True,False,1,10,0.0
-117,1,0,2022-12-23,London Irish,Saracens,W,3.14,1.36,home,0,1,Saracens,London Irish,L,1.36,3.14,away,False,True,False,1,10,0.0
-118,1,1,2022-12-24,Leicester,Gloucester,W,1.5,2.61,home,0,0,Gloucester,Leicester,L,2.61,1.5,away,True,True,True,1,10,15.0
-120,1,1,2022-12-24,Exeter,Bath,W,1.2,4.52,home,0,0,Bath,Exeter,L,4.52,1.2,away,True,True,True,1,10,12.0
-123,0,1,2022-12-27,Harlequins,Bristol,L,1.28,3.7,home,1,0,Bristol,Harlequins,W,3.7,1.28,away,False,True,False,1,10,0.0
-125,1,1,2022-12-30,Sale,Leicester,W,1.58,2.42,home,0,0,Leicester,Sale,L,2.42,1.58,away,True,True,True,1,10,15.8
-127,1,1,2022-12-31,Bath,Newcastle,W,1.26,3.97,home,0,0,Newcastle,Bath,L,3.97,1.26,away,True,True,True,1,10,12.6
-129,1,1,2022-12-31,Gloucester,London Irish,W,1.37,3.17,home,0,0,London Irish,Gloucester,L,3.17,1.37,away,True,True,True,1,10,13.700000000000001
-131,1,1,2022-12-31,Saracens,Exeter,W,1.15,5.62,home,0,0,Exeter,Saracens,L,5.62,1.15,away,True,True,True,1,10,11.5
-133,1,1,2023-01-01,Northampton,Harlequins,W,1.52,2.55,home,0,0,Harlequins,Northampton,L,2.55,1.52,away,True,True,True,2,5,7.6
-134,0,0,2023-01-06,Gloucester,Saracens,L,3.0,1.41,home,1,1,Saracens,Gloucester,W,1.41,3.0,away,True,True,True,1,10,14.1
-137,1,1,2023-01-07,Exeter,Northampton,W,1.32,3.43,home,0,0,Northampton,Exeter,L,3.43,1.32,away,True,True,True,1,10,13.200000000000001
-138,1,0,2023-01-07,Newcastle,Leicester,W,2.21,1.7,home,0,1,Leicester,Newcastle,L,1.7,2.21,away,False,True,False,1,10,0.0
-140,1,1,2023-01-08,London Irish,Bristol,W,1.89,1.94,home,0,0,Bristol,London Irish,L,1.94,1.89,away,True,True,True,1,10,18.9
-141,0,0,2023-01-08,Harlequins,Sale,L,2.14,1.74,home,1,1,Sale,Harlequins,W,1.74,2.14,away,True,True,True,2,5,8.7
-145,1,1,2023-01-27,Sale,Bath,W,1.34,3.29,home,0,0,Bath,Sale,L,3.29,1.34,away,True,True,True,1,10,13.4
-146,1,1,2023-01-28,Exeter,Gloucester,W,1.51,2.61,home,0,0,Gloucester,Exeter,L,2.61,1.51,away,True,True,True,1,10,15.1
-147,0,1,2023-01-28,Leicester,Northampton,L,1.24,4.11,home,1,0,Northampton,Leicester,W,4.11,1.24,away,False,True,False,1,10,0.0
-149,1,1,2023-01-28,Saracens,Bristol,W,1.35,3.21,home,0,0,Bristol,Saracens,L,3.21,1.35,away,True,True,True,1,10,13.5
+,actual_x,prediction_x,date,team_x,opponent_x,teamPoints_x,opponentPoints_x,totalPoints_x,result_x,teamOdds_x,opponentOdds_x,teamType_x,actual_y,prediction_y,team_y,opponent_y,teamPoints_y,opponentPoints_y,totalPoints_y,result_y,teamOdds_y,opponentOdds_y,teamType_y,correct_prediction,different_prediction,lower_odds_winner,prediction_certainty,points_difference,bet,return
+0,1,1,2022-09-10,London Irish,Worcester,45,14,59,W,1.13,6.0,home,0,0,Worcester,London Irish,14,45,59,L,6.0,1.13,away,True,True,True,1,31,10,11.299999999999999
+1,1,1,2022-09-10,Bristol,Bath,31,29,60,W,1.24,4.04,home,0,0,Bath,Bristol,29,31,60,L,4.04,1.24,away,True,True,True,1,2,10,12.4
+5,1,0,2022-09-10,Exeter,Leicester,24,20,44,W,2.06,1.8,home,0,1,Leicester,Exeter,20,24,44,L,1.8,2.06,away,False,True,False,1,4,10,0.0
+7,0,0,2022-09-10,Newcastle,Harlequins,31,40,71,L,2.92,1.42,home,1,1,Harlequins,Newcastle,40,31,71,W,1.42,2.92,away,True,True,True,1,9,10,14.2
+8,1,1,2022-09-11,Sale,Northampton,29,22,51,W,1.4,3.01,home,0,0,Northampton,Sale,22,29,51,L,3.01,1.4,away,True,True,True,1,7,10,14.0
+11,1,1,2022-09-11,Gloucester,Wasps,27,21,48,W,1.36,3.16,home,0,0,Wasps,Gloucester,21,27,48,L,3.16,1.36,away,True,True,True,1,6,10,13.600000000000001
+12,0,0,2022-09-17,Bath,Sale,20,37,57,L,1.99,1.83,home,1,1,Sale,Bath,37,20,57,W,1.83,1.99,away,True,True,True,1,17,10,18.3
+13,0,0,2022-09-17,Harlequins,Saracens,27,30,57,L,2.62,1.5,home,1,1,Saracens,Harlequins,30,27,57,W,1.5,2.62,away,True,True,True,1,3,10,15.0
+17,0,1,2022-09-17,Wasps,Bristol,8,23,31,L,1.52,2.59,home,1,0,Bristol,Wasps,23,8,31,W,2.59,1.52,away,False,True,False,1,15,10,0.0
+19,1,1,2022-09-17,Leicester,Newcastle,36,21,57,W,1.05,9.0,home,0,0,Newcastle,Leicester,21,36,57,L,9.0,1.05,away,True,True,True,1,15,10,10.5
+20,1,1,2022-09-17,Northampton,London Irish,38,22,60,W,1.42,2.89,home,0,0,London Irish,Northampton,22,38,60,L,2.89,1.42,away,True,True,True,1,16,10,14.2
+23,0,0,2022-09-18,Worcester,Exeter,21,36,57,L,5.62,1.13,home,1,1,Exeter,Worcester,36,21,57,W,1.13,5.62,away,True,True,True,1,15,10,11.299999999999999
+24,0,1,2022-09-23,Bath,Wasps,31,39,70,L,1.82,2.01,home,1,0,Wasps,Bath,39,31,70,W,2.01,1.82,away,False,True,False,2,8,5,0.0
+27,1,1,2022-09-24,Saracens,Gloucester,41,39,80,W,1.21,4.3,home,0,0,Gloucester,Saracens,39,41,80,L,4.3,1.21,away,True,True,True,1,2,10,12.1
+29,0,0,2022-09-24,Northampton,Leicester,21,41,62,L,1.82,2.03,home,1,1,Leicester,Northampton,41,21,62,W,2.03,1.82,away,True,True,False,1,20,10,20.299999999999997
+31,1,1,2022-09-24,Worcester,Newcastle,39,5,44,W,1.74,2.14,home,0,0,Newcastle,Worcester,5,39,44,L,2.14,1.74,away,True,True,True,1,34,10,17.4
+32,1,1,2022-09-24,Bristol,London Irish,40,36,76,W,1.31,3.47,home,0,0,London Irish,Bristol,36,40,76,L,3.47,1.31,away,True,True,True,1,4,10,13.100000000000001
+35,1,1,2022-09-25,Exeter,Harlequins,43,42,85,W,1.29,3.65,home,0,0,Harlequins,Exeter,42,43,85,L,3.65,1.29,away,True,True,True,1,1,10,12.9
+36,1,0,2022-09-30,Newcastle,Bristol,30,15,45,W,2.4,1.59,home,0,1,Bristol,Newcastle,15,30,45,L,1.59,2.4,away,False,True,False,1,15,10,0.0
+38,1,1,2022-10-01,London Irish,Bath,47,38,85,W,1.29,3.58,home,0,0,Bath,London Irish,38,47,85,L,3.58,1.29,away,True,True,True,1,9,10,12.9
+42,1,1,2022-10-01,Saracens,Leicester,51,18,69,W,1.42,2.89,home,0,0,Leicester,Saracens,18,51,69,L,2.89,1.42,away,True,True,True,1,33,10,14.2
+43,1,1,2022-10-01,Sale,Exeter,28,20,48,W,1.61,2.34,home,0,0,Exeter,Sale,20,28,48,L,2.34,1.61,away,True,True,True,1,8,10,16.1
+44,1,1,2022-10-02,Harlequins,Northampton,35,29,64,W,1.45,2.78,home,0,0,Northampton,Harlequins,29,35,64,L,2.78,1.45,away,True,True,True,1,6,10,14.5
+47,0,0,2022-10-07,Bristol,Exeter,14,50,64,L,2.02,1.82,home,1,1,Exeter,Bristol,50,14,64,W,1.82,2.02,away,True,True,True,1,36,10,18.2
+49,0,1,2022-10-08,Leicester,Sale,16,26,42,L,1.33,3.34,home,1,0,Sale,Leicester,26,16,42,W,3.34,1.33,away,False,True,False,1,10,10,0.0
+50,0,0,2022-10-08,Bath,Gloucester,17,21,38,L,3.28,1.34,home,1,1,Gloucester,Bath,21,17,38,W,1.34,3.28,away,True,True,True,1,4,10,13.4
+52,0,0,2022-10-09,Wasps,Northampton,36,40,76,L,1.87,1.95,home,1,1,Northampton,Wasps,40,36,76,W,1.95,1.87,away,True,True,False,1,4,10,19.5
+53,0,0,2022-10-09,Newcastle,Saracens,14,34,48,L,3.86,1.26,home,1,1,Saracens,Newcastle,34,14,48,W,1.26,3.86,away,True,True,True,1,20,10,12.6
+56,1,1,2022-10-14,Sale,London Irish,37,14,51,W,1.18,4.8,home,0,0,London Irish,Sale,14,37,51,L,4.8,1.18,away,True,True,True,1,23,10,11.799999999999999
+61,1,1,2022-10-15,Saracens,Bath,37,31,68,W,1.04,10.08,home,0,0,Bath,Saracens,31,37,68,L,10.08,1.04,away,True,True,True,1,6,10,10.4
+62,1,1,2022-10-15,Gloucester,Bristol,31,28,59,W,1.28,3.73,home,0,0,Bristol,Gloucester,28,31,59,L,3.73,1.28,away,True,True,True,1,3,10,12.8
+63,1,1,2022-10-15,Northampton,Newcastle,32,31,63,W,1.08,7.32,home,0,0,Newcastle,Northampton,31,32,63,L,7.32,1.08,away,True,True,True,1,1,10,10.8
+65,0,1,2022-10-16,Harlequins,Leicester,19,27,46,L,1.67,2.23,home,1,0,Leicester,Harlequins,27,19,46,W,2.23,1.67,away,False,True,False,2,8,5,0.0
+67,0,1,2022-10-21,London Irish,Gloucester,21,22,43,L,1.74,2.12,home,1,0,Gloucester,London Irish,22,21,43,W,2.12,1.74,away,False,True,False,2,1,5,0.0
+69,0,1,2022-10-22,Exeter,Saracens,20,22,42,L,1.77,2.09,home,1,0,Saracens,Exeter,22,20,42,W,2.09,1.77,away,False,True,False,1,2,10,0.0
+71,1,0,2022-10-22,Bath,Northampton,27,14,41,W,2.57,1.51,home,0,1,Northampton,Bath,14,27,41,L,1.51,2.57,away,False,True,False,1,13,10,0.0
+73,0,1,2022-10-23,Sale,Harlequins,13,29,42,L,1.29,3.59,home,1,0,Harlequins,Sale,29,13,42,W,3.59,1.29,away,False,True,False,1,16,10,0.0
+75,1,0,2022-10-28,Gloucester,Exeter,38,22,60,W,1.88,1.96,home,0,1,Exeter,Gloucester,22,38,60,L,1.96,1.88,away,False,True,True,1,16,10,0.0
+77,1,1,2022-10-29,Harlequins,London Irish,26,24,50,W,1.24,4.01,home,0,0,London Irish,Harlequins,24,26,50,L,4.01,1.24,away,True,True,True,1,2,10,12.4
+78,1,1,2022-10-29,Northampton,Bristol,45,31,76,W,1.78,2.07,home,0,0,Bristol,Northampton,31,45,76,L,2.07,1.78,away,True,True,True,1,14,10,17.8
+80,1,1,2022-10-30,Saracens,Sale,33,22,55,W,1.51,2.59,home,0,0,Sale,Saracens,22,33,55,L,2.59,1.51,away,True,True,True,1,11,10,15.1
+83,1,1,2022-11-04,Northampton,Exeter,26,19,45,W,1.64,2.3,home,0,0,Exeter,Northampton,19,26,45,L,2.3,1.64,away,True,True,True,2,7,5,8.2
+85,0,1,2022-11-05,Newcastle,Bath,10,17,27,L,1.67,2.24,home,1,0,Bath,Newcastle,17,10,27,W,2.24,1.67,away,False,True,False,1,7,10,0.0
+87,1,1,2022-11-05,Sale,Gloucester,27,17,44,W,1.25,3.9,home,0,0,Gloucester,Sale,17,27,44,L,3.9,1.25,away,True,True,True,1,10,10,12.5
+88,0,0,2022-11-05,Bristol,Saracens,10,25,35,L,3.14,1.36,home,1,1,Saracens,Bristol,25,10,35,W,1.36,3.14,away,True,True,True,1,15,10,13.600000000000001
+90,1,0,2022-11-11,Bath,Leicester,19,18,37,W,2.61,1.51,home,0,1,Leicester,Bath,18,19,37,L,1.51,2.61,away,False,True,False,1,1,10,0.0
+92,1,1,2022-11-12,Exeter,London Irish,22,17,39,W,1.49,2.65,home,0,0,London Irish,Exeter,17,22,39,L,2.65,1.49,away,True,True,True,1,5,10,14.9
+93,0,1,2022-11-12,Gloucester,Newcastle,21,27,48,L,1.14,5.51,home,1,0,Newcastle,Gloucester,27,21,48,W,5.51,1.14,away,False,True,False,1,6,10,0.0
+97,1,1,2022-11-13,Saracens,Northampton,45,39,84,W,1.41,2.94,home,0,0,Northampton,Saracens,39,45,84,L,2.94,1.41,away,True,True,True,1,6,10,14.1
+99,1,0,2022-11-25,Newcastle,Exeter,24,21,45,W,2.27,1.65,home,0,1,Exeter,Newcastle,21,24,45,L,1.65,2.27,away,False,True,False,1,3,10,0.0
+100,1,1,2022-11-25,Harlequins,Gloucester,21,12,33,W,1.43,2.88,home,0,0,Gloucester,Harlequins,12,21,33,L,2.88,1.43,away,True,True,True,1,9,10,14.299999999999999
+102,1,1,2022-11-26,Sale,Bristol,25,20,45,W,1.26,3.82,home,0,0,Bristol,Sale,20,25,45,L,3.82,1.26,away,True,True,True,1,5,10,12.6
+104,1,1,2022-11-27,Leicester,London Irish,33,31,64,W,1.24,4.02,home,0,0,London Irish,Leicester,31,33,64,L,4.02,1.24,away,True,True,True,1,2,10,12.4
+106,0,0,2022-12-02,Bath,Harlequins,13,19,32,L,2.08,1.77,home,1,1,Harlequins,Bath,19,13,32,W,1.77,2.08,away,True,True,True,1,6,10,17.7
+109,0,0,2022-12-03,Bristol,Leicester,26,26,52,D,2.22,1.67,home,0,1,Leicester,Bristol,26,26,52,D,1.67,2.22,away,False,True,False,1,0,10,0.0
+112,1,1,2022-12-03,Gloucester,Northampton,34,19,53,W,1.59,2.38,home,0,0,Northampton,Gloucester,19,34,53,L,2.38,1.59,away,True,True,True,1,15,10,15.9
+113,1,1,2022-12-03,London Irish,Newcastle,39,17,56,W,1.28,3.68,home,0,0,Newcastle,London Irish,17,39,56,L,3.68,1.28,away,True,True,True,1,22,10,12.8
+114,1,0,2022-12-23,London Irish,Saracens,29,20,49,W,3.14,1.36,home,0,1,Saracens,London Irish,20,29,49,L,1.36,3.14,away,False,True,False,1,9,10,0.0
+117,1,0,2022-12-23,Newcastle,Sale,20,14,34,W,2.66,1.5,home,0,1,Sale,Newcastle,14,20,34,L,1.5,2.66,away,False,True,False,1,6,10,0.0
+118,1,1,2022-12-24,Exeter,Bath,20,15,35,W,1.2,4.52,home,0,0,Bath,Exeter,15,20,35,L,4.52,1.2,away,True,True,True,1,5,10,12.0
+120,1,1,2022-12-24,Leicester,Gloucester,28,13,41,W,1.5,2.61,home,0,0,Gloucester,Leicester,13,28,41,L,2.61,1.5,away,True,True,True,1,15,10,15.0
+122,0,1,2022-12-27,Harlequins,Bristol,12,15,27,L,1.28,3.7,home,1,0,Bristol,Harlequins,15,12,27,W,3.7,1.28,away,False,True,False,1,3,10,0.0
+125,1,1,2022-12-30,Sale,Leicester,40,5,45,W,1.58,2.42,home,0,0,Leicester,Sale,5,40,45,L,2.42,1.58,away,True,True,True,1,35,10,15.8
+126,1,1,2022-12-31,Bath,Newcastle,24,16,40,W,1.26,3.97,home,0,0,Newcastle,Bath,16,24,40,L,3.97,1.26,away,True,True,True,1,8,10,12.6
+127,1,1,2022-12-31,Gloucester,London Irish,8,6,14,W,1.37,3.17,home,0,0,London Irish,Gloucester,6,8,14,L,3.17,1.37,away,True,True,True,1,2,10,13.700000000000001
+130,1,1,2022-12-31,Saracens,Exeter,35,3,38,W,1.15,5.62,home,0,0,Exeter,Saracens,3,35,38,L,5.62,1.15,away,True,True,True,1,32,10,11.5
+132,1,1,2023-01-01,Northampton,Harlequins,46,17,63,W,1.52,2.55,home,0,0,Harlequins,Northampton,17,46,63,L,2.55,1.52,away,True,True,True,2,29,5,7.6
+134,0,0,2023-01-06,Gloucester,Saracens,16,19,35,L,3.0,1.41,home,1,1,Saracens,Gloucester,19,16,35,W,1.41,3.0,away,True,True,True,1,3,10,14.1
+136,1,0,2023-01-07,Newcastle,Leicester,45,26,71,W,2.21,1.7,home,0,1,Leicester,Newcastle,26,45,71,L,1.7,2.21,away,False,True,False,1,19,10,0.0
+137,1,1,2023-01-07,Exeter,Northampton,35,12,47,W,1.32,3.43,home,0,0,Northampton,Exeter,12,35,47,L,3.43,1.32,away,True,True,True,1,23,10,13.200000000000001
+142,1,1,2023-01-08,London Irish,Bristol,23,7,30,W,1.89,1.94,home,0,0,Bristol,London Irish,7,23,30,L,1.94,1.89,away,True,True,True,2,16,5,9.45
+143,0,0,2023-01-08,Harlequins,Sale,16,24,40,L,2.14,1.74,home,1,1,Sale,Harlequins,24,16,40,W,1.74,2.14,away,True,True,True,2,8,5,8.7
+145,1,1,2023-01-27,Sale,Bath,30,27,57,W,1.34,3.29,home,0,0,Bath,Sale,27,30,57,L,3.29,1.34,away,True,True,True,1,3,10,13.4
+147,1,1,2023-01-28,Saracens,Bristol,20,19,39,W,1.35,3.21,home,0,0,Bristol,Saracens,19,20,39,L,3.21,1.35,away,True,True,True,1,1,10,13.5
+148,0,1,2023-01-28,Leicester,Northampton,18,19,37,L,1.24,4.11,home,1,0,Northampton,Leicester,19,18,37,W,4.11,1.24,away,False,True,False,1,1,10,0.0
+150,1,1,2023-01-28,Exeter,Gloucester,24,17,41,W,1.51,2.61,home,0,0,Gloucester,Exeter,17,24,41,L,2.61,1.51,away,True,True,True,1,7,10,15.1
+152,1,1,2023-01-29,London Irish,Harlequins,42,24,66,W,1.49,2.68,home,0,0,Harlequins,London Irish,24,42,66,L,2.68,1.49,away,True,True,True,1,18,10,14.9

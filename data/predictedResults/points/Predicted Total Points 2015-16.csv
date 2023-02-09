@@ -1,0 +1,131 @@
+,actual_x,prediction_x,date,team_x,opponent_x,teamPoints_x,opponentPoints_x,result_x,teamType_x,actual_y,prediction_y,team_y,opponent_y,teamPoints_y,opponentPoints_y,result_y,teamType_y,points_difference_in_predictions
+0,66,26,2015-10-16,Newcastle,Gloucester,27,39,L,home,66,26,Gloucester,Newcastle,39,27,W,away,40
+1,47,53,2015-10-16,Harlequins,Wasps,26,21,W,home,47,53,Wasps,Harlequins,21,26,L,away,-6
+4,44,28,2015-10-17,Saracens,Sale,41,3,W,home,44,49,Sale,Saracens,3,41,L,away,16
+7,36,51,2015-10-17,Bath,Exeter,19,17,W,home,36,53,Exeter,Bath,17,19,L,away,-15
+9,44,18,2015-10-18,London Irish,Leicester,16,28,L,home,44,26,Leicester,London Irish,28,16,W,away,26
+10,32,53,2015-10-23,Gloucester,Saracens,15,17,L,home,32,53,Saracens,Gloucester,17,15,W,away,-21
+12,25,43,2015-10-24,Wasps,Bath,16,9,W,home,25,53,Bath,Wasps,9,16,L,away,-18
+13,49,68,2015-10-24,Exeter,London Irish,38,11,W,home,49,68,London Irish,Exeter,11,38,L,away,-19
+16,58,45,2015-10-24,Northampton,Newcastle,42,16,W,home,58,45,Newcastle,Northampton,16,42,L,away,13
+18,41,38,2015-10-25,Leicester,Harlequins,22,19,W,home,41,38,Harlequins,Leicester,19,22,L,away,3
+20,66,51,2015-10-31,Bath,Harlequins,28,38,L,home,66,51,Harlequins,Bath,38,28,W,away,15
+22,38,28,2015-10-31,Saracens,London Irish,24,14,W,home,38,49,London Irish,Saracens,14,24,L,away,10
+25,40,34,2015-11-01,Leicester,Wasps,24,16,W,home,40,42,Wasps,Leicester,16,24,L,away,6
+27,33,44,2015-11-01,Sale,Northampton,20,13,W,home,33,44,Northampton,Sale,13,20,L,away,-11
+29,44,30,2015-11-01,Newcastle,Exeter,3,41,L,home,44,30,Exeter,Newcastle,41,3,W,away,14
+30,30,28,2015-11-06,Harlequins,Sale,16,14,W,home,30,28,Sale,Harlequins,14,16,L,away,2
+32,25,46,2015-11-07,Exeter,Leicester,19,6,W,home,25,46,Leicester,Exeter,6,19,L,away,-21
+34,18,42,2015-11-07,Northampton,Saracens,6,12,L,home,18,42,Saracens,Northampton,12,6,W,away,-24
+36,59,30,2015-11-07,London Irish,Bath,14,45,L,home,59,30,Bath,London Irish,45,14,W,away,29
+38,26,30,2015-11-08,Wasps,Gloucester,23,3,W,home,26,30,Gloucester,Wasps,3,23,L,away,-4
+41,18,42,2015-11-27,Northampton,Gloucester,15,3,W,home,18,42,Gloucester,Northampton,3,15,L,away,-24
+43,48,31,2015-11-28,London Irish,Wasps,15,33,L,home,48,31,Wasps,London Irish,33,15,W,away,17
+46,51,46,2015-11-28,Exeter,Harlequins,26,25,W,home,51,46,Harlequins,Exeter,25,26,L,away,5
+47,30,44,2015-11-28,Sale,Newcastle,15,15,D,home,30,44,Newcastle,Sale,15,15,D,away,-14
+49,32,42,2015-11-29,Leicester,Bath,21,11,W,home,32,42,Bath,Leicester,11,21,L,away,-10
+51,42,55,2015-12-04,Gloucester,Sale,23,19,W,home,42,55,Sale,Gloucester,19,23,L,away,-13
+52,45,53,2015-12-05,Harlequins,London Irish,38,7,W,home,45,53,London Irish,Harlequins,7,38,L,away,-8
+56,49,55,2015-12-05,Worcester,Leicester,20,29,L,home,49,55,Leicester,Worcester,29,20,W,away,-6
+57,24,55,2015-12-05,Bath,Northampton,11,13,L,home,24,55,Northampton,Bath,13,11,W,away,-31
+59,68,55,2015-12-05,Wasps,Exeter,27,41,L,home,68,55,Exeter,Wasps,41,27,W,away,13
+60,41,48,2015-12-06,Newcastle,Saracens,3,38,L,home,41,48,Saracens,Newcastle,38,3,W,away,-7
+62,48,55,2015-12-26,London Irish,Northampton,25,23,W,home,48,33,Northampton,London Irish,23,25,L,away,-7
+64,50,46,2015-12-26,Exeter,Sale,33,17,W,home,50,46,Sale,Exeter,17,33,L,away,4
+66,32,36,2015-12-26,Leicester,Newcastle,22,10,W,home,32,36,Newcastle,Leicester,10,22,L,away,-4
+69,35,85,2015-12-27,Bath,Worcester,21,14,W,home,35,55,Worcester,Bath,14,21,L,away,-50
+71,42,43,2015-12-27,Wasps,Saracens,16,26,L,home,42,43,Saracens,Wasps,26,16,W,away,-1
+72,78,55,2015-12-27,Harlequins,Gloucester,39,39,D,home,78,55,Gloucester,Harlequins,39,39,D,away,23
+74,11,70,2016-01-01,Northampton,Exeter,8,3,W,home,11,53,Exeter,Northampton,3,8,L,away,-59
+76,41,47,2016-01-02,Gloucester,London Irish,27,14,W,home,41,47,London Irish,Gloucester,14,27,L,away,-6
+78,24,27,2016-01-02,Sale,Wasps,15,9,W,home,24,27,Wasps,Sale,9,15,L,away,-3
+82,32,28,2016-01-02,Saracens,Leicester,26,6,W,home,32,28,Leicester,Saracens,6,26,L,away,4
+83,33,45,2016-01-02,Newcastle,Bath,19,14,W,home,33,45,Bath,Newcastle,14,19,L,away,-12
+85,44,51,2016-01-03,Worcester,Harlequins,20,24,L,home,44,37,Harlequins,Worcester,24,20,W,away,-7
+87,57,25,2016-01-09,Leicester,Northampton,30,27,W,home,57,25,Northampton,Leicester,27,30,L,away,32
+88,29,51,2016-01-09,Exeter,Gloucester,19,10,W,home,29,51,Gloucester,Exeter,10,19,L,away,-22
+90,52,53,2016-01-09,Harlequins,Saracens,29,23,W,home,52,53,Saracens,Harlequins,23,29,L,away,-1
+93,54,57,2016-01-10,Wasps,Worcester,32,22,W,home,54,57,Worcester,Wasps,22,32,L,away,-3
+94,35,54,2016-01-10,London Irish,Newcastle,20,15,W,home,35,54,Newcastle,London Irish,15,20,L,away,-19
+97,35,70,2016-01-29,Northampton,Wasps,11,24,L,home,35,53,Wasps,Northampton,24,11,W,away,-35
+99,48,27,2016-01-30,Sale,London Irish,38,10,W,home,48,27,London Irish,Sale,10,38,L,away,21
+101,37,47,2016-01-30,Gloucester,Leicester,18,19,L,home,37,47,Leicester,Gloucester,19,18,W,away,-10
+103,32,28,2016-01-30,Saracens,Bath,19,13,W,home,32,28,Bath,Saracens,13,19,L,away,4
+104,45,45,2016-01-31,Newcastle,Harlequins,26,19,W,home,45,45,Harlequins,Newcastle,19,26,L,away,0
+105,45,51,2016-01-31,Worcester,Exeter,15,30,L,home,45,45,Exeter,Worcester,30,15,W,away,-6
+109,26,34,2016-02-05,Bath,Gloucester,11,15,L,home,26,34,Gloucester,Bath,15,11,W,away,-8
+110,17,43,2016-02-06,Wasps,Newcastle,9,8,W,home,17,43,Newcastle,Wasps,8,9,L,away,-26
+111,50,53,2016-02-06,Harlequins,Northampton,23,27,L,home,50,53,Northampton,Harlequins,27,23,W,away,-3
+112,13,36,2016-02-06,Leicester,Sale,3,10,L,home,13,36,Sale,Leicester,10,3,W,away,-23
+117,25,63,2016-02-07,Exeter,Saracens,11,14,L,home,25,63,Saracens,Exeter,14,11,W,away,-38
+118,33,18,2016-02-07,London Irish,Worcester,20,13,W,home,33,18,Worcester,London Irish,13,20,L,away,15
+120,40,46,2016-02-12,Newcastle,Leicester,26,14,W,home,40,48,Leicester,Newcastle,14,26,L,away,-6
+123,40,62,2016-02-13,Sale,Exeter,23,17,W,home,40,62,Exeter,Sale,17,23,L,away,-22
+124,30,62,2016-02-13,Worcester,Bath,14,16,L,home,30,62,Bath,Worcester,16,14,W,away,-32
+128,34,58,2016-02-13,Gloucester,Harlequins,28,6,W,home,34,58,Harlequins,Gloucester,6,28,L,away,-24
+129,42,24,2016-02-13,Northampton,London Irish,35,7,W,home,42,24,London Irish,Northampton,7,35,L,away,18
+131,87,58,2016-02-14,Saracens,Wasps,23,64,L,home,87,58,Wasps,Saracens,64,23,W,away,29
+133,44,53,2016-02-19,Harlequins,Leicester,25,19,W,home,44,53,Leicester,Harlequins,19,25,L,away,-9
+136,54,62,2016-02-20,Worcester,Sale,31,23,W,home,54,62,Sale,Worcester,23,31,L,away,-8
+137,42,34,2016-02-20,Bath,Wasps,18,24,L,home,42,34,Wasps,Bath,24,18,W,away,8
+138,37,58,2016-02-20,Saracens,Gloucester,25,12,W,home,37,28,Gloucester,Saracens,12,25,L,away,-21
+141,37,18,2016-02-21,London Irish,Exeter,15,22,L,home,37,18,Exeter,London Irish,22,15,W,away,19
+143,51,46,2016-02-21,Newcastle,Northampton,26,25,W,home,51,48,Northampton,Newcastle,25,26,L,away,5
+145,72,29,2016-02-27,Sale,Saracens,36,36,D,home,72,62,Saracens,Sale,36,36,D,away,43
+148,38,53,2016-02-27,Gloucester,Newcastle,32,6,W,home,38,58,Newcastle,Gloucester,6,32,L,away,-15
+149,56,30,2016-02-27,Northampton,Worcester,38,18,W,home,56,24,Worcester,Northampton,18,38,L,away,26
+153,43,22,2016-02-28,Exeter,Bath,26,17,W,home,43,63,Bath,Exeter,17,26,L,away,21
+154,52,43,2016-02-28,Wasps,Harlequins,42,10,W,home,52,43,Harlequins,Wasps,10,42,L,away,9
+155,67,36,2016-02-28,Leicester,London Irish,47,20,W,home,67,33,London Irish,Leicester,20,47,L,away,31
+157,29,43,2016-03-04,Newcastle,Worcester,14,15,L,home,29,43,Worcester,Newcastle,15,14,W,away,-14
+160,52,29,2016-03-05,Sale,Harlequins,29,23,W,home,52,29,Harlequins,Sale,23,29,L,away,23
+161,23,43,2016-03-05,Gloucester,Wasps,13,10,W,home,23,43,Wasps,Gloucester,10,13,L,away,-20
+163,42,15,2016-03-05,Bath,London Irish,25,17,W,home,42,15,London Irish,Bath,17,25,L,away,27
+165,35,43,2016-03-05,Saracens,Northampton,15,20,L,home,35,43,Northampton,Saracens,20,15,W,away,-8
+167,58,43,2016-03-06,Leicester,Exeter,31,27,W,home,58,43,Exeter,Leicester,27,31,L,away,15
+169,63,43,2016-03-11,Harlequins,Bath,35,28,W,home,63,46,Bath,Harlequins,28,35,L,away,20
+170,42,43,2016-03-12,London Irish,Saracens,16,26,L,home,42,43,Saracens,London Irish,26,16,W,away,-1
+171,49,43,2016-03-12,Exeter,Newcastle,32,17,W,home,49,43,Newcastle,Exeter,17,32,L,away,6
+173,48,43,2016-03-12,Worcester,Gloucester,28,20,W,home,48,43,Gloucester,Worcester,20,28,L,away,5
+174,60,43,2016-03-12,Wasps,Leicester,36,24,W,home,60,43,Leicester,Wasps,24,36,L,away,17
+178,37,53,2016-03-12,Northampton,Sale,26,11,W,home,37,43,Sale,Northampton,11,26,L,away,-16
+181,40,15,2016-03-18,Bath,Newcastle,21,19,W,home,40,15,Newcastle,Bath,19,21,L,away,25
+183,36,43,2016-03-19,Harlequins,Worcester,15,21,L,home,36,43,Worcester,Harlequins,21,15,W,away,-7
+184,51,43,2016-03-20,Wasps,Sale,39,12,W,home,51,43,Sale,Wasps,12,39,L,away,8
+185,34,43,2016-03-20,Leicester,Saracens,21,13,W,home,34,43,Saracens,Leicester,13,21,L,away,-9
+188,41,43,2016-03-20,London Irish,Gloucester,23,18,W,home,41,43,Gloucester,London Irish,18,23,L,away,-2
+191,32,43,2016-03-20,Exeter,Northampton,20,12,W,home,32,43,Northampton,Exeter,12,20,L,away,-11
+194,18,43,2016-03-26,Worcester,London Irish,12,6,W,home,18,43,London Irish,Worcester,6,12,L,away,-25
+195,54,43,2016-03-26,Saracens,Exeter,36,18,W,home,54,43,Exeter,Saracens,18,36,L,away,11
+196,29,66,2016-03-26,Gloucester,Bath,12,17,L,home,29,66,Bath,Gloucester,17,12,W,away,-37
+198,52,82,2016-03-27,Northampton,Harlequins,29,23,W,home,52,43,Harlequins,Northampton,23,29,L,away,-30
+199,47,29,2016-03-27,Sale,Leicester,27,20,W,home,47,29,Leicester,Sale,20,27,L,away,18
+201,54,43,2016-03-27,Newcastle,Wasps,20,34,L,home,54,43,Wasps,Newcastle,34,20,W,away,11
+204,40,48,2016-04-01,Bath,Saracens,10,30,L,home,40,61,Saracens,Bath,30,10,W,away,-8
+209,65,55,2016-04-02,Leicester,Gloucester,35,30,W,home,65,55,Gloucester,Leicester,30,35,L,away,10
+210,71,48,2016-04-02,Harlequins,Newcastle,46,25,W,home,71,55,Newcastle,Harlequins,25,46,L,away,23
+212,62,31,2016-04-02,Exeter,Worcester,50,12,W,home,62,31,Worcester,Exeter,12,50,L,away,31
+213,45,48,2016-04-02,London Irish,Sale,15,30,L,home,45,48,Sale,London Irish,30,15,W,away,-3
+215,34,65,2016-04-03,Wasps,Northampton,28,6,W,home,34,65,Northampton,Wasps,6,28,L,away,-31
+216,25,82,2016-04-15,Gloucester,Exeter,16,9,W,home,25,82,Exeter,Gloucester,9,16,L,away,-57
+219,54,53,2016-04-16,Northampton,Leicester,24,30,L,home,54,53,Leicester,Northampton,30,24,W,away,1
+222,89,48,2016-04-16,Worcester,Wasps,35,54,L,home,89,48,Wasps,Worcester,54,35,W,away,41
+223,34,48,2016-04-16,Saracens,Harlequins,22,12,W,home,34,48,Harlequins,Saracens,12,22,L,away,-14
+224,19,48,2016-04-17,Newcastle,London Irish,13,6,W,home,19,48,London Irish,Newcastle,6,13,L,away,-29
+226,46,48,2016-04-17,Sale,Bath,29,17,W,home,46,48,Bath,Sale,17,29,L,away,-2
+229,58,48,2016-04-23,Bath,Sale,32,26,W,home,58,48,Sale,Bath,26,32,L,away,10
+230,23,48,2016-04-29,Sale,Gloucester,11,12,L,home,23,48,Gloucester,Sale,12,11,W,away,-25
+233,29,48,2016-04-30,Northampton,Bath,15,14,W,home,29,48,Bath,Northampton,14,15,L,away,-19
+234,48,55,2016-04-30,Leicester,Worcester,31,17,W,home,48,55,Worcester,Leicester,17,31,L,away,-7
+238,37,28,2016-05-01,Saracens,Newcastle,23,14,W,home,37,28,Newcastle,Saracens,14,23,L,away,9
+239,27,60,2016-05-01,Exeter,Wasps,24,3,W,home,27,60,Wasps,Exeter,3,24,L,away,-33
+241,57,80,2016-05-01,London Irish,Harlequins,25,32,L,home,57,80,Harlequins,London Irish,32,25,W,away,-23
+243,86,53,2016-05-07,Harlequins,Exeter,24,62,L,home,86,53,Exeter,Harlequins,62,24,W,away,33
+247,36,48,2016-05-07,Newcastle,Sale,15,21,L,home,36,48,Sale,Newcastle,21,15,W,away,-12
+248,65,57,2016-05-07,Bath,Leicester,38,27,W,home,65,57,Leicester,Bath,27,38,L,away,8
+249,50,64,2016-05-07,Wasps,London Irish,38,12,W,home,50,47,London Irish,Wasps,12,38,L,away,-14
+251,48,48,2016-05-07,Gloucester,Northampton,20,28,L,home,48,53,Northampton,Gloucester,28,20,W,away,0
+252,62,53,2016-05-07,Worcester,Saracens,19,43,L,home,62,58,Saracens,Worcester,43,19,W,away,9
+254,57,60,2016-05-21,Exeter,Wasps,34,23,W,home,57,60,Wasps,Exeter,23,34,L,away,-3
+255,61,44,2016-05-21,Saracens,Leicester,44,17,W,home,61,44,Leicester,Saracens,17,44,L,away,17
+258,48,44,2016-05-28,Saracens,Exeter,28,20,W,home,48,44,Exeter,Saracens,20,28,L,away,4

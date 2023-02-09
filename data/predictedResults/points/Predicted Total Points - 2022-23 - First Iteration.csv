@@ -1,0 +1,78 @@
+,actual_x,prediction_x,date,team_x,opponent_x,teamPoints_x,opponentPoints_x,result_x,teamType_x,actual_y,prediction_y,team_y,opponent_y,teamPoints_y,opponentPoints_y,result_y,teamType_y,points_difference_in_predictions
+0,59,43,2022-09-10,London Irish,Worcester,45,14,W,home,59,43,Worcester,London Irish,14,45,L,away,16
+1,60,43,2022-09-10,Bristol,Bath,31,29,W,home,60,43,Bath,Bristol,29,31,L,away,17
+5,44,48,2022-09-10,Exeter,Leicester,24,20,W,home,44,41,Leicester,Exeter,20,24,L,away,-4
+7,71,46,2022-09-10,Newcastle,Harlequins,31,40,L,home,71,46,Harlequins,Newcastle,40,31,W,away,25
+8,51,39,2022-09-11,Sale,Northampton,29,22,W,home,51,39,Northampton,Sale,22,29,L,away,12
+11,48,59,2022-09-11,Gloucester,Wasps,27,21,W,home,48,59,Wasps,Gloucester,21,27,L,away,-11
+12,57,62,2022-09-17,Bath,Sale,20,37,L,home,57,59,Sale,Bath,37,20,W,away,-5
+13,57,45,2022-09-17,Harlequins,Saracens,27,30,L,home,57,45,Saracens,Harlequins,30,27,W,away,12
+17,31,52,2022-09-17,Wasps,Bristol,8,23,L,home,31,52,Bristol,Wasps,23,8,W,away,-21
+19,57,52,2022-09-17,Leicester,Newcastle,36,21,W,home,57,34,Newcastle,Leicester,21,36,L,away,5
+20,60,52,2022-09-17,Northampton,London Irish,38,22,W,home,60,43,London Irish,Northampton,22,38,L,away,8
+23,57,43,2022-09-18,Worcester,Exeter,21,36,L,home,57,41,Exeter,Worcester,36,21,W,away,14
+24,70,65,2022-09-23,Bath,Wasps,31,39,L,home,70,65,Wasps,Bath,39,31,W,away,5
+27,80,39,2022-09-24,Saracens,Gloucester,41,39,W,home,80,57,Gloucester,Saracens,39,41,L,away,41
+29,62,35,2022-09-24,Northampton,Leicester,21,41,L,home,62,41,Leicester,Northampton,41,21,W,away,27
+31,44,43,2022-09-24,Worcester,Newcastle,39,5,W,home,44,43,Newcastle,Worcester,5,39,L,away,1
+32,76,43,2022-09-24,Bristol,London Irish,40,36,W,home,76,43,London Irish,Bristol,36,40,L,away,33
+35,85,61,2022-09-25,Exeter,Harlequins,43,42,W,home,85,50,Harlequins,Exeter,42,43,L,away,24
+36,45,46,2022-09-30,Newcastle,Bristol,30,15,W,home,45,43,Bristol,Newcastle,15,30,L,away,-1
+38,85,44,2022-10-01,London Irish,Bath,47,38,W,home,85,44,Bath,London Irish,38,47,L,away,41
+42,69,60,2022-10-01,Saracens,Leicester,51,18,W,home,69,60,Leicester,Saracens,18,51,L,away,9
+43,48,40,2022-10-01,Sale,Exeter,28,20,W,home,48,50,Exeter,Sale,20,28,L,away,8
+44,64,47,2022-10-02,Harlequins,Northampton,35,29,W,home,64,76,Northampton,Harlequins,29,35,L,away,17
+47,64,45,2022-10-07,Bristol,Exeter,14,50,L,home,64,45,Exeter,Bristol,50,14,W,away,19
+49,42,34,2022-10-08,Leicester,Sale,16,26,L,home,42,30,Sale,Leicester,26,16,W,away,8
+50,38,44,2022-10-08,Bath,Gloucester,17,21,L,home,38,43,Gloucester,Bath,21,17,W,away,-6
+52,76,46,2022-10-09,Wasps,Northampton,36,40,L,home,76,46,Northampton,Wasps,40,36,W,away,30
+53,48,32,2022-10-09,Newcastle,Saracens,14,34,L,home,48,32,Saracens,Newcastle,34,14,W,away,16
+56,51,54,2022-10-14,Sale,London Irish,37,14,W,home,51,44,London Irish,Sale,14,37,L,away,-3
+61,68,60,2022-10-15,Saracens,Bath,37,31,W,home,68,60,Bath,Saracens,31,37,L,away,8
+62,59,49,2022-10-15,Gloucester,Bristol,31,28,W,home,59,49,Bristol,Gloucester,28,31,L,away,10
+63,63,44,2022-10-15,Northampton,Newcastle,32,31,W,home,63,44,Newcastle,Northampton,31,32,L,away,19
+65,46,76,2022-10-16,Harlequins,Leicester,19,27,L,home,46,76,Leicester,Harlequins,27,19,W,away,-30
+67,43,44,2022-10-21,London Irish,Gloucester,21,22,L,home,43,44,Gloucester,London Irish,22,21,W,away,-1
+69,42,41,2022-10-22,Exeter,Saracens,20,22,L,home,42,54,Saracens,Exeter,22,20,W,away,1
+71,41,44,2022-10-22,Bath,Northampton,27,14,W,home,41,44,Northampton,Bath,14,27,L,away,-3
+73,42,50,2022-10-23,Sale,Harlequins,13,29,L,home,42,40,Harlequins,Sale,29,13,W,away,-8
+75,60,29,2022-10-28,Gloucester,Exeter,38,22,W,home,60,49,Exeter,Gloucester,22,38,L,away,31
+77,50,76,2022-10-29,Harlequins,London Irish,26,24,W,home,50,76,London Irish,Harlequins,24,26,L,away,-26
+78,76,44,2022-10-29,Northampton,Bristol,45,31,W,home,76,44,Bristol,Northampton,31,45,L,away,32
+80,55,60,2022-10-30,Saracens,Sale,33,22,W,home,55,60,Sale,Saracens,22,33,L,away,-5
+83,45,53,2022-11-04,Northampton,Exeter,26,19,W,home,45,53,Exeter,Northampton,19,26,L,away,-8
+85,27,31,2022-11-05,Newcastle,Bath,10,17,L,home,27,31,Bath,Newcastle,17,10,W,away,-4
+87,44,33,2022-11-05,Sale,Gloucester,27,17,W,home,44,36,Gloucester,Sale,17,27,L,away,11
+88,35,60,2022-11-05,Bristol,Saracens,10,25,L,home,35,43,Saracens,Bristol,25,10,W,away,-25
+90,37,31,2022-11-11,Bath,Leicester,19,18,W,home,37,41,Leicester,Bath,18,19,L,away,6
+92,39,46,2022-11-12,Exeter,London Irish,22,17,W,home,39,41,London Irish,Exeter,17,22,L,away,-7
+93,48,49,2022-11-12,Gloucester,Newcastle,21,27,L,home,48,49,Newcastle,Gloucester,27,21,W,away,-1
+97,84,39,2022-11-13,Saracens,Northampton,45,39,W,home,84,68,Northampton,Saracens,39,45,L,away,45
+99,45,31,2022-11-25,Newcastle,Exeter,24,21,W,home,45,31,Exeter,Newcastle,21,24,L,away,14
+100,33,41,2022-11-25,Harlequins,Gloucester,21,12,W,home,33,41,Gloucester,Harlequins,12,21,L,away,-8
+102,45,44,2022-11-26,Sale,Bristol,25,20,W,home,45,33,Bristol,Sale,20,25,L,away,1
+104,64,53,2022-11-27,Leicester,London Irish,33,31,W,home,64,34,London Irish,Leicester,31,33,L,away,11
+106,32,57,2022-12-02,Bath,Harlequins,13,19,L,home,32,39,Harlequins,Bath,19,13,W,away,-25
+109,52,51,2022-12-03,Bristol,Leicester,26,26,D,home,52,51,Leicester,Bristol,26,26,D,away,1
+112,53,58,2022-12-03,Gloucester,Northampton,34,19,W,home,53,37,Northampton,Gloucester,19,34,L,away,-5
+113,56,64,2022-12-03,London Irish,Newcastle,39,17,W,home,56,54,Newcastle,London Irish,17,39,L,away,-8
+114,49,48,2022-12-23,London Irish,Saracens,29,20,W,home,49,68,Saracens,London Irish,20,29,L,away,1
+117,34,64,2022-12-23,Newcastle,Sale,20,14,W,home,34,64,Sale,Newcastle,14,20,L,away,-30
+118,35,41,2022-12-24,Exeter,Bath,20,15,W,home,35,33,Bath,Exeter,15,20,L,away,-6
+120,41,30,2022-12-24,Leicester,Gloucester,28,13,W,home,41,30,Gloucester,Leicester,13,28,L,away,11
+122,27,63,2022-12-27,Harlequins,Bristol,12,15,L,home,27,37,Bristol,Harlequins,15,12,W,away,-36
+125,45,24,2022-12-30,Sale,Leicester,40,5,W,home,45,62,Leicester,Sale,5,40,L,away,21
+126,40,60,2022-12-31,Bath,Newcastle,24,16,W,home,40,60,Newcastle,Bath,16,24,L,away,-20
+127,14,52,2022-12-31,Gloucester,London Irish,8,6,W,home,14,58,London Irish,Gloucester,6,8,L,away,-38
+130,38,90,2022-12-31,Saracens,Exeter,35,3,W,home,38,60,Exeter,Saracens,3,35,L,away,-52
+132,63,36,2023-01-01,Northampton,Harlequins,46,17,W,home,63,36,Harlequins,Northampton,17,46,L,away,27
+134,35,47,2023-01-06,Gloucester,Saracens,16,19,L,home,35,37,Saracens,Gloucester,19,16,W,away,-12
+136,71,46,2023-01-07,Newcastle,Leicester,45,26,W,home,71,52,Leicester,Newcastle,26,45,L,away,25
+137,47,51,2023-01-07,Exeter,Northampton,35,12,W,home,47,41,Northampton,Exeter,12,35,L,away,-4
+142,30,54,2023-01-08,London Irish,Bristol,23,7,W,home,30,44,Bristol,London Irish,7,23,L,away,-24
+143,40,55,2023-01-08,Harlequins,Sale,16,24,L,home,40,55,Sale,Harlequins,24,16,W,away,-15
+145,57,47,2023-01-27,Sale,Bath,30,27,W,home,57,39,Bath,Sale,27,30,L,away,10
+147,39,49,2023-01-28,Saracens,Bristol,20,19,W,home,39,49,Bristol,Saracens,19,20,L,away,-10
+148,37,34,2023-01-28,Leicester,Northampton,18,19,L,home,37,34,Northampton,Leicester,19,18,W,away,3
+150,41,51,2023-01-28,Exeter,Gloucester,24,17,W,home,41,51,Gloucester,Exeter,17,24,L,away,-10
+152,66,54,2023-01-29,London Irish,Harlequins,42,24,W,home,66,54,Harlequins,London Irish,24,42,L,away,12

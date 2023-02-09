@@ -1,0 +1,134 @@
+,actual_x,prediction_x,date,team_x,opponent_x,teamPoints_x,opponentPoints_x,result_x,teamType_x,actual_y,prediction_y,team_y,opponent_y,teamPoints_y,opponentPoints_y,result_y,teamType_y,points_difference_in_predictions
+0,59,44,2019-10-18,Bristol,Bath,43,16,W,home,59,44,Bath,Bristol,16,43,L,away,15
+4,52,44,2019-10-19,Saracens,Northampton,25,27,L,home,52,44,Northampton,Saracens,27,25,W,away,8
+5,34,27,2019-10-19,Sale,Gloucester,16,18,L,home,34,64,Gloucester,Sale,18,16,W,away,7
+6,41,54,2019-10-19,Exeter,Harlequins,22,19,W,home,41,54,Harlequins,Exeter,19,22,L,away,-13
+8,40,59,2019-10-19,Worcester,Leicester,24,16,W,home,40,59,Leicester,Worcester,16,24,L,away,-19
+11,55,43,2019-10-20,Wasps,London Irish,26,29,L,home,55,34,London Irish,Wasps,29,26,W,away,12
+12,23,63,2019-10-25,Bath,Exeter,13,10,W,home,23,63,Exeter,Bath,10,13,L,away,-40
+14,51,53,2019-10-26,Northampton,Worcester,35,16,W,home,51,53,Worcester,Northampton,16,35,L,away,-2
+15,48,44,2019-10-26,London Irish,Sale,7,41,L,home,48,44,Sale,London Irish,41,7,W,away,4
+16,34,41,2019-10-26,Gloucester,Wasps,25,9,W,home,34,54,Wasps,Gloucester,9,25,L,away,-7
+17,39,45,2019-10-26,Harlequins,Bristol,22,17,W,home,39,29,Bristol,Harlequins,17,22,L,away,-6
+23,34,38,2019-10-27,Leicester,Saracens,10,24,L,home,34,47,Saracens,Leicester,24,10,W,away,-4
+24,26,37,2019-11-01,Bristol,Sale,16,10,W,home,26,37,Sale,Bristol,10,16,L,away,-11
+25,62,18,2019-11-01,Northampton,Harlequins,40,22,W,home,62,18,Harlequins,Northampton,22,40,L,away,44
+28,52,50,2019-11-02,Wasps,Bath,30,22,W,home,52,50,Bath,Wasps,22,30,L,away,2
+32,29,38,2019-11-02,Saracens,London Irish,16,13,W,home,29,44,London Irish,Saracens,13,16,L,away,-9
+33,29,34,2019-11-02,Leicester,Gloucester,16,13,W,home,29,33,Gloucester,Leicester,13,16,L,away,-5
+35,44,33,2019-11-03,Worcester,Exeter,20,24,L,home,44,33,Exeter,Worcester,24,20,W,away,11
+36,46,33,2019-11-08,Sale,Wasps,28,18,W,home,46,33,Wasps,Sale,18,28,L,away,13
+38,33,30,2019-11-09,Harlequins,Worcester,14,19,L,home,33,30,Worcester,Harlequins,19,14,W,away,3
+39,33,49,2019-11-09,Gloucester,Saracens,12,21,L,home,33,54,Saracens,Gloucester,21,12,W,away,-16
+42,35,41,2019-11-09,Bath,Northampton,22,13,W,home,35,41,Northampton,Bath,13,22,L,away,-6
+45,47,30,2019-11-10,London Irish,Leicester,36,11,W,home,47,30,Leicester,London Irish,11,36,L,away,17
+47,37,46,2019-11-10,Exeter,Bristol,17,20,L,home,37,46,Bristol,Exeter,20,17,W,away,-9
+48,37,52,2019-11-29,Bath,Saracens,12,25,L,home,37,41,Saracens,Bath,25,12,W,away,-15
+51,41,46,2019-11-30,Exeter,Wasps,38,3,W,home,41,46,Wasps,Exeter,3,38,L,away,-5
+53,49,18,2019-11-30,Northampton,Leicester,36,13,W,home,49,18,Leicester,Northampton,13,36,L,away,31
+54,33,33,2019-11-30,Worcester,Sale,20,13,W,home,33,33,Sale,Worcester,13,20,L,away,0
+56,42,45,2019-12-01,Harlequins,Gloucester,23,19,W,home,42,45,Gloucester,Harlequins,19,23,L,away,-3
+58,54,51,2019-12-01,Bristol,London Irish,27,27,D,home,54,52,London Irish,Bristol,27,27,D,away,3
+61,39,52,2019-12-20,Gloucester,Worcester,36,3,W,home,39,54,Worcester,Gloucester,3,36,L,away,-13
+62,53,33,2019-12-21,Leicester,Exeter,22,31,L,home,53,32,Exeter,Leicester,31,22,W,away,20
+63,32,29,2019-12-21,Sale,Northampton,22,10,W,home,32,29,Northampton,Sale,10,22,L,away,3
+67,60,77,2019-12-21,Saracens,Bristol,47,13,W,home,60,42,Bristol,Saracens,13,47,L,away,-17
+68,50,38,2019-12-21,Wasps,Harlequins,22,28,L,home,50,38,Harlequins,Wasps,28,22,W,away,12
+71,48,35,2019-12-22,London Irish,Bath,10,38,L,home,48,35,Bath,London Irish,38,10,W,away,13
+73,47,51,2019-12-27,Bristol,Wasps,21,26,L,home,47,51,Wasps,Bristol,26,21,W,away,-4
+74,59,42,2019-12-28,Northampton,Gloucester,33,26,W,home,59,30,Gloucester,Northampton,26,33,L,away,17
+75,26,31,2019-12-28,Worcester,London Irish,20,6,W,home,26,31,London Irish,Worcester,6,20,L,away,-5
+76,60,71,2019-12-28,Harlequins,Leicester,30,30,D,home,60,33,Leicester,Harlequins,30,30,D,away,-11
+81,30,14,2019-12-28,Bath,Sale,16,14,W,home,30,14,Sale,Bath,14,16,L,away,16
+82,21,41,2019-12-29,Exeter,Saracens,14,7,W,home,21,41,Saracens,Exeter,7,14,L,away,-20
+85,58,59,2020-01-03,Sale,Harlequins,48,10,W,home,58,59,Harlequins,Sale,10,48,L,away,-1
+88,44,41,2020-01-04,Gloucester,Bath,29,15,W,home,44,37,Bath,Gloucester,15,29,L,away,3
+89,49,34,2020-01-04,Leicester,Bristol,31,18,W,home,49,34,Bristol,Leicester,18,31,L,away,15
+91,67,32,2020-01-04,Saracens,Worcester,62,5,W,home,67,32,Worcester,Saracens,5,62,L,away,35
+94,73,54,2020-01-05,London Irish,Exeter,28,45,L,home,73,54,Exeter,London Irish,45,28,W,away,19
+95,66,43,2020-01-05,Wasps,Northampton,31,35,L,home,66,43,Northampton,Wasps,35,31,W,away,23
+97,36,70,2020-01-24,Northampton,London Irish,16,20,L,home,36,50,London Irish,Northampton,20,16,W,away,-34
+98,23,43,2020-01-25,Bath,Leicester,13,10,W,home,23,39,Leicester,Bath,10,13,L,away,-20
+100,50,52,2020-01-25,Bristol,Gloucester,34,16,W,home,50,51,Gloucester,Bristol,16,34,L,away,-2
+101,56,41,2020-01-25,Worcester,Wasps,26,30,L,home,56,41,Wasps,Worcester,30,26,W,away,15
+103,41,23,2020-01-25,Exeter,Sale,19,22,L,home,41,25,Sale,Exeter,22,19,W,away,18
+106,55,52,2020-01-26,Harlequins,Saracens,41,14,W,home,55,52,Saracens,Harlequins,14,41,L,away,3
+109,41,41,2020-02-14,Gloucester,Exeter,15,26,L,home,41,41,Exeter,Gloucester,26,15,W,away,0
+110,43,30,2020-02-15,Worcester,Bath,21,22,L,home,43,30,Bath,Worcester,22,21,W,away,13
+111,27,33,2020-02-15,Leicester,Wasps,18,9,W,home,27,33,Wasps,Leicester,9,18,L,away,-6
+114,44,50,2020-02-15,Harlequins,London Irish,15,29,L,home,44,50,London Irish,Harlequins,29,15,W,away,-6
+116,58,58,2020-02-15,Saracens,Sale,36,22,W,home,58,47,Sale,Saracens,22,36,L,away,0
+118,34,42,2020-02-16,Northampton,Bristol,14,20,L,home,34,42,Bristol,Northampton,20,14,W,away,-8
+120,70,57,2020-02-21,Wasps,Saracens,60,10,W,home,70,57,Saracens,Wasps,10,60,L,away,13
+122,39,40,2020-02-21,Sale,Leicester,36,3,W,home,39,50,Leicester,Sale,3,36,L,away,-1
+126,31,34,2020-02-22,Bath,Harlequins,19,12,W,home,31,43,Harlequins,Bath,12,19,L,away,-3
+127,44,18,2020-02-22,London Irish,Gloucester,24,20,W,home,44,18,Gloucester,London Irish,20,24,L,away,26
+128,64,52,2020-02-23,Exeter,Northampton,57,7,W,home,64,61,Northampton,Exeter,7,57,L,away,12
+130,23,51,2020-02-23,Bristol,Worcester,13,10,W,home,23,50,Worcester,Bristol,10,13,L,away,-28
+133,40,41,2020-02-28,Gloucester,Sale,17,23,L,home,40,54,Sale,Gloucester,23,17,W,away,-1
+134,64,53,2020-02-29,Harlequins,Exeter,34,30,W,home,64,53,Exeter,Harlequins,30,34,L,away,11
+136,48,38,2020-02-29,Northampton,Saracens,21,27,L,home,48,30,Saracens,Northampton,27,21,W,away,10
+137,22,67,2020-02-29,Leicester,Worcester,14,8,W,home,22,67,Worcester,Leicester,8,14,L,away,-45
+140,32,27,2020-03-01,Bath,Bristol,13,19,L,home,32,27,Bristol,Bath,19,13,W,away,5
+143,62,43,2020-03-01,London Irish,Wasps,26,36,L,home,62,43,Wasps,London Irish,36,26,W,away,19
+146,39,44,2020-03-06,Sale,London Irish,39,0,W,home,39,44,London Irish,Sale,0,39,L,away,-5
+147,26,39,2020-03-06,Worcester,Northampton,10,16,L,home,26,39,Northampton,Worcester,16,10,W,away,-13
+148,37,28,2020-03-07,Saracens,Leicester,24,13,W,home,37,28,Leicester,Saracens,13,24,L,away,9
+149,61,53,2020-03-07,Wasps,Gloucester,39,22,W,home,61,53,Gloucester,Wasps,22,39,L,away,8
+150,77,54,2020-03-07,Exeter,Bath,57,20,W,home,77,39,Bath,Exeter,20,57,L,away,23
+155,43,52,2020-03-08,Bristol,Harlequins,28,15,W,home,43,52,Harlequins,Bristol,15,28,L,away,-9
+156,26,27,2020-08-14,Harlequins,Sale,16,10,W,home,26,27,Sale,Harlequins,10,16,L,away,-1
+159,39,27,2020-08-15,Exeter,Leicester,26,13,W,home,39,27,Leicester,Exeter,13,26,L,away,12
+161,28,27,2020-08-15,Bristol,Saracens,16,12,W,home,28,27,Saracens,Bristol,12,16,L,away,1
+162,51,27,2020-08-15,Bath,London Irish,34,17,W,home,51,27,London Irish,Bath,17,34,L,away,24
+165,59,27,2020-08-15,Worcester,Gloucester,15,44,L,home,59,27,Gloucester,Worcester,44,15,W,away,32
+166,55,27,2020-08-16,Northampton,Wasps,21,34,L,home,55,27,Wasps,Northampton,34,21,W,away,28
+168,54,27,2020-08-21,Sale,Exeter,22,32,L,home,54,27,Exeter,Sale,32,22,W,away,27
+172,57,27,2020-08-21,Gloucester,Bristol,24,33,L,home,57,27,Bristol,Gloucester,33,24,W,away,30
+173,49,27,2020-08-21,Wasps,Worcester,32,17,W,home,49,27,Worcester,Wasps,17,32,L,away,22
+174,30,27,2020-08-22,London Irish,Northampton,3,27,L,home,30,27,Northampton,London Irish,27,3,W,away,3
+176,62,27,2020-08-22,Saracens,Harlequins,38,24,W,home,62,27,Harlequins,Saracens,24,38,L,away,35
+179,54,27,2020-08-22,Leicester,Bath,16,38,L,home,54,27,Bath,Leicester,38,16,W,away,27
+180,31,27,2020-08-25,Wasps,Sale,11,20,L,home,31,27,Sale,Wasps,20,11,W,away,4
+183,47,27,2020-08-25,Bristol,Exeter,22,25,L,home,47,27,Exeter,Bristol,25,22,W,away,20
+186,56,27,2020-08-26,Saracens,Gloucester,36,20,W,home,56,27,Gloucester,Saracens,20,36,L,away,29
+187,21,27,2020-08-26,Northampton,Bath,3,18,L,home,21,27,Bath,Northampton,18,3,W,away,-6
+189,20,34,2020-08-26,Leicester,London Irish,13,7,W,home,20,34,London Irish,Leicester,7,13,L,away,-14
+190,43,27,2020-08-26,Worcester,Harlequins,29,14,W,home,43,27,Harlequins,Worcester,14,29,L,away,16
+192,47,27,2020-08-29,Sale,Bristol,40,7,W,home,47,27,Bristol,Sale,7,40,L,away,20
+195,47,27,2020-08-30,Harlequins,Northampton,30,17,W,home,47,27,Northampton,Harlequins,17,30,L,away,20
+197,76,27,2020-08-30,Gloucester,Leicester,46,30,W,home,76,27,Leicester,Gloucester,30,46,L,away,49
+199,66,27,2020-08-30,Exeter,Worcester,59,7,W,home,66,27,Worcester,Exeter,7,59,L,away,39
+200,50,27,2020-08-31,Bath,Wasps,23,27,L,home,50,27,Wasps,Bath,27,23,W,away,23
+201,52,27,2020-08-31,London Irish,Saracens,12,40,L,home,52,27,Saracens,London Irish,40,12,W,away,25
+204,41,39,2020-09-04,Northampton,Exeter,19,22,L,home,41,35,Exeter,Northampton,22,19,W,away,2
+207,49,43,2020-09-04,Worcester,Bristol,13,36,L,home,49,43,Bristol,Worcester,36,13,W,away,6
+209,46,77,2020-09-05,Saracens,Wasps,18,28,L,home,46,77,Wasps,Saracens,28,18,W,away,-31
+211,71,48,2020-09-05,Leicester,Sale,31,40,L,home,71,34,Sale,Leicester,40,31,W,away,23
+214,68,45,2020-09-05,Harlequins,Bath,27,41,L,home,68,59,Bath,Harlequins,41,27,W,away,23
+215,59,43,2020-09-05,Gloucester,London Irish,36,23,W,home,59,43,London Irish,Gloucester,23,36,L,away,16
+216,57,85,2020-09-08,Bristol,Northampton,47,10,W,home,57,85,Northampton,Bristol,10,47,L,away,-28
+218,55,59,2020-09-09,Bath,Worcester,40,15,W,home,55,59,Worcester,Bath,15,40,L,away,-4
+219,53,45,2020-09-09,London Irish,Harlequins,15,38,L,home,53,45,Harlequins,London Irish,38,15,W,away,8
+220,57,53,2020-09-09,Exeter,Gloucester,35,22,W,home,57,47,Gloucester,Exeter,22,35,L,away,4
+222,61,45,2020-09-09,Wasps,Leicester,54,7,W,home,61,45,Leicester,Wasps,7,54,L,away,16
+223,41,29,2020-09-09,Sale,Saracens,24,17,W,home,41,29,Saracens,Sale,17,24,L,away,12
+228,57,77,2020-09-13,Saracens,Exeter,40,17,W,home,57,53,Exeter,Saracens,17,40,L,away,-20
+232,65,43,2020-09-13,London Irish,Worcester,25,40,L,home,65,43,Worcester,London Irish,40,25,W,away,22
+233,59,29,2020-09-13,Sale,Bath,22,37,L,home,59,29,Bath,Sale,37,22,W,away,30
+236,94,45,2020-09-13,Wasps,Bristol,59,35,W,home,94,45,Bristol,Wasps,35,59,L,away,49
+237,52,34,2020-09-13,Leicester,Northampton,28,24,W,home,52,34,Northampton,Leicester,24,28,L,away,18
+239,43,52,2020-09-14,Gloucester,Harlequins,15,28,L,home,43,52,Harlequins,Gloucester,28,15,W,away,-9
+240,51,52,2020-09-22,Bath,Gloucester,31,20,W,home,51,52,Gloucester,Bath,20,31,L,away,-1
+242,55,45,2020-09-28,Harlequins,Wasps,23,32,L,home,55,45,Wasps,Harlequins,32,23,W,away,10
+245,48,35,2020-09-29,Northampton,Sale,14,34,L,home,48,35,Sale,Northampton,34,14,W,away,13
+248,41,44,2020-09-30,Exeter,London Irish,19,22,L,home,41,44,London Irish,Exeter,22,19,W,away,-3
+250,43,33,2020-09-30,Bristol,Leicester,40,3,W,home,43,33,Leicester,Bristol,3,40,L,away,10
+251,67,28,2020-09-30,Worcester,Saracens,40,27,W,home,67,28,Saracens,Worcester,27,40,L,away,39
+254,58,47,2020-10-04,Leicester,Harlequins,26,32,L,home,58,38,Harlequins,Leicester,32,26,W,away,11
+255,34,44,2020-10-04,Saracens,Bath,17,17,D,home,34,44,Bath,Saracens,17,17,D,away,-10
+256,51,34,2020-10-04,Wasps,Exeter,46,5,W,home,51,56,Exeter,Wasps,5,46,L,away,17
+257,43,59,2020-10-04,London Irish,Bristol,7,36,L,home,43,68,Bristol,London Irish,36,7,W,away,-16
+261,71,37,2020-10-10,Wasps,Bristol,47,24,W,home,71,37,Bristol,Wasps,24,47,L,away,34
+263,41,49,2020-10-10,Exeter,Bath,35,6,W,home,41,54,Bath,Exeter,6,35,L,away,-8
+265,32,38,2020-10-24,Exeter,Wasps,19,13,W,home,32,38,Wasps,Exeter,13,19,L,away,-6

@@ -1,0 +1,136 @@
+,actual_x,prediction_x,date,team_x,opponent_x,teamPoints_x,opponentPoints_x,result_x,teamType_x,actual_y,prediction_y,team_y,opponent_y,teamPoints_y,opponentPoints_y,result_y,teamType_y,points_difference_in_predictions
+0,49,69,2017-09-01,Gloucester,Exeter,28,21,W,home,49,69,Exeter,Gloucester,21,28,L,away,-20
+1,43,27,2017-09-01,Newcastle,Worcester,35,8,W,home,43,27,Worcester,Newcastle,8,35,L,away,16
+4,79,48,2017-09-02,Saracens,Northampton,55,24,W,home,79,48,Northampton,Saracens,24,55,L,away,31
+5,85,45,2017-09-02,Wasps,Sale,50,35,W,home,85,45,Sale,Wasps,35,50,L,away,40
+7,68,48,2017-09-02,London Irish,Harlequins,39,29,W,home,68,48,Harlequins,London Irish,29,39,L,away,20
+11,50,48,2017-09-03,Leicester,Bath,23,27,L,home,50,48,Bath,Leicester,27,23,W,away,2
+13,25,29,2017-09-08,Sale,Newcastle,12,13,L,home,25,29,Newcastle,Sale,13,12,W,away,-4
+15,45,27,2017-09-09,Harlequins,Gloucester,28,17,W,home,45,27,Gloucester,Harlequins,17,28,L,away,18
+16,52,63,2017-09-09,Bath,Saracens,31,21,W,home,52,63,Saracens,Bath,21,31,L,away,-11
+17,35,39,2017-09-09,Northampton,Leicester,24,11,W,home,35,39,Leicester,Northampton,11,24,L,away,-4
+19,44,61,2017-09-09,Exeter,London Irish,37,7,W,home,44,61,London Irish,Exeter,7,37,L,away,-17
+22,34,38,2017-09-10,Worcester,Wasps,10,24,L,home,34,46,Wasps,Worcester,24,10,W,away,-4
+25,43,29,2017-09-15,Sale,London Irish,36,7,W,home,43,29,London Irish,Sale,7,36,L,away,14
+27,51,68,2017-09-15,Worcester,Exeter,10,41,L,home,51,45,Exeter,Worcester,41,10,W,away,-17
+29,30,32,2017-09-15,Northampton,Bath,24,6,W,home,30,32,Bath,Northampton,6,24,L,away,-2
+31,34,48,2017-09-16,Leicester,Gloucester,24,10,W,home,34,56,Gloucester,Leicester,10,24,L,away,-14
+32,36,39,2017-09-16,Newcastle,Saracens,7,29,L,home,36,39,Saracens,Newcastle,29,7,W,away,-3
+34,45,45,2017-09-17,Wasps,Harlequins,21,24,L,home,45,45,Harlequins,Wasps,24,21,W,away,0
+36,43,31,2017-09-22,Gloucester,Worcester,24,19,W,home,43,31,Worcester,Gloucester,19,24,L,away,12
+39,59,27,2017-09-23,Harlequins,Leicester,28,31,L,home,59,27,Leicester,Harlequins,31,28,W,away,32
+40,65,63,2017-09-23,Bath,Newcastle,32,33,L,home,65,63,Newcastle,Bath,33,32,W,away,2
+43,54,39,2017-09-23,Saracens,Sale,41,13,W,home,54,39,Sale,Saracens,13,41,L,away,15
+45,48,47,2017-09-24,Exeter,Wasps,31,17,W,home,48,47,Wasps,Exeter,17,31,L,away,1
+47,65,48,2017-09-24,London Irish,Northampton,25,40,L,home,65,48,Northampton,London Irish,40,25,W,away,17
+48,28,31,2017-09-29,Worcester,Saracens,3,25,L,home,28,38,Saracens,Worcester,25,3,W,away,-3
+49,46,36,2017-09-29,Newcastle,London Irish,29,17,W,home,46,27,London Irish,Newcastle,17,29,L,away,10
+52,67,39,2017-09-29,Sale,Gloucester,57,10,W,home,67,39,Gloucester,Sale,10,57,L,away,28
+54,33,56,2017-09-30,Leicester,Exeter,20,13,W,home,33,56,Exeter,Leicester,13,20,L,away,-23
+55,52,39,2017-09-30,Northampton,Harlequins,30,22,W,home,52,39,Harlequins,Northampton,22,30,L,away,13
+59,34,25,2017-10-01,Wasps,Bath,9,25,L,home,34,25,Bath,Wasps,25,9,W,away,9
+61,68,47,2017-10-06,Harlequins,Sale,42,26,W,home,68,47,Sale,Harlequins,26,42,L,away,21
+64,53,21,2017-10-07,Gloucester,Northampton,29,24,W,home,53,21,Northampton,Gloucester,24,29,L,away,32
+65,55,44,2017-10-07,London Irish,Leicester,27,28,L,home,55,44,Leicester,London Irish,28,27,W,away,11
+66,58,49,2017-10-07,Exeter,Newcastle,34,24,W,home,58,49,Newcastle,Exeter,24,34,L,away,9
+69,42,33,2017-10-07,Bath,Worcester,29,13,W,home,42,33,Worcester,Bath,13,29,L,away,9
+71,57,44,2017-10-08,Saracens,Wasps,38,19,W,home,57,44,Wasps,Saracens,19,38,L,away,13
+73,16,29,2017-10-27,Sale,Exeter,6,10,L,home,16,64,Exeter,Sale,10,6,W,away,-13
+76,60,35,2017-10-28,Northampton,Wasps,22,38,L,home,60,43,Wasps,Northampton,38,22,W,away,25
+78,76,50,2017-10-28,Harlequins,Worcester,41,35,W,home,76,50,Worcester,Harlequins,35,41,L,away,26
+79,57,38,2017-10-28,Saracens,London Irish,44,13,W,home,57,44,London Irish,Saracens,13,44,L,away,19
+81,43,44,2017-10-29,Newcastle,Leicester,13,30,L,home,43,44,Leicester,Newcastle,30,13,W,away,-1
+82,43,33,2017-10-29,Bath,Gloucester,21,22,L,home,43,33,Gloucester,Bath,22,21,W,away,10
+84,40,37,2017-11-17,Gloucester,Saracens,23,17,W,home,40,54,Saracens,Gloucester,17,23,L,away,3
+87,45,35,2017-11-18,Worcester,Northampton,30,15,W,home,45,35,Northampton,Worcester,15,30,L,away,10
+89,50,58,2017-11-18,Wasps,Newcastle,40,10,W,home,50,58,Newcastle,Wasps,10,40,L,away,-8
+91,62,34,2017-11-19,Leicester,Sale,35,27,W,home,62,31,Sale,Leicester,27,35,L,away,28
+92,48,46,2017-11-19,Exeter,Harlequins,31,17,W,home,48,46,Harlequins,Exeter,17,31,L,away,2
+94,40,30,2017-11-19,London Irish,Bath,18,22,L,home,40,59,Bath,London Irish,22,18,W,away,10
+96,36,30,2017-11-24,Newcastle,Gloucester,7,29,L,home,36,30,Gloucester,Newcastle,29,7,W,away,6
+98,58,31,2017-11-25,Leicester,Worcester,27,31,L,home,58,31,Worcester,Leicester,31,27,W,away,27
+99,52,25,2017-11-25,Bath,Harlequins,38,14,W,home,52,25,Harlequins,Bath,14,38,L,away,27
+101,33,44,2017-11-25,Sale,Northampton,18,15,W,home,33,44,Northampton,Sale,15,18,L,away,-11
+105,30,56,2017-11-26,London Irish,Wasps,13,17,L,home,30,59,Wasps,London Irish,17,13,W,away,-26
+106,38,44,2017-11-26,Saracens,Exeter,18,20,L,home,38,44,Exeter,Saracens,20,18,W,away,-6
+109,32,38,2017-12-01,Worcester,Sale,14,18,L,home,32,49,Sale,Worcester,18,14,W,away,-6
+110,46,42,2017-12-01,Northampton,Newcastle,22,24,L,home,46,29,Newcastle,Northampton,24,22,W,away,4
+112,71,41,2017-12-02,Exeter,Bath,42,29,W,home,71,41,Bath,Exeter,29,42,L,away,30
+116,54,48,2017-12-02,Gloucester,London Irish,39,15,W,home,54,44,London Irish,Gloucester,15,39,L,away,6
+117,57,42,2017-12-02,Wasps,Leicester,32,25,W,home,57,64,Leicester,Wasps,25,32,L,away,15
+119,39,45,2017-12-03,Harlequins,Saracens,20,19,W,home,39,45,Saracens,Harlequins,19,20,L,away,-6
+121,31,48,2017-12-22,Worcester,London Irish,23,8,W,home,31,44,London Irish,Worcester,8,23,L,away,-17
+123,21,41,2017-12-23,Newcastle,Harlequins,11,10,W,home,21,41,Harlequins,Newcastle,10,11,L,away,-20
+125,73,42,2017-12-23,Wasps,Gloucester,49,24,W,home,73,42,Gloucester,Wasps,24,49,L,away,31
+127,41,62,2017-12-23,Sale,Bath,32,9,W,home,41,24,Bath,Sale,9,32,L,away,-21
+129,49,42,2017-12-23,Northampton,Exeter,14,35,L,home,49,42,Exeter,Northampton,35,14,W,away,7
+131,46,30,2017-12-24,Leicester,Saracens,17,29,L,home,46,30,Saracens,Leicester,29,17,W,away,16
+132,57,25,2017-12-29,Bath,Wasps,26,31,L,home,57,28,Wasps,Bath,31,26,W,away,32
+135,36,42,2017-12-30,Gloucester,Sale,20,16,W,home,36,42,Sale,Gloucester,16,20,L,away,-6
+138,71,48,2017-12-30,Harlequins,Northampton,50,21,W,home,71,48,Northampton,Harlequins,21,50,L,away,23
+139,35,48,2017-12-30,London Irish,Newcastle,15,20,L,home,35,48,Newcastle,London Irish,20,15,W,away,-13
+141,77,27,2017-12-30,Saracens,Worcester,46,31,W,home,77,27,Worcester,Saracens,31,46,L,away,50
+143,36,41,2017-12-31,Exeter,Leicester,30,6,W,home,36,41,Leicester,Exeter,6,30,L,away,-5
+144,71,44,2018-01-05,Worcester,Bath,25,46,L,home,71,44,Bath,Worcester,46,25,W,away,27
+146,34,41,2018-01-06,Leicester,London Irish,19,15,W,home,34,44,London Irish,Leicester,15,19,L,away,-7
+148,59,24,2018-01-06,Sale,Harlequins,30,29,W,home,59,24,Harlequins,Sale,29,30,L,away,35
+150,41,42,2018-01-06,Northampton,Gloucester,22,19,W,home,41,35,Gloucester,Northampton,19,22,L,away,-1
+152,48,45,2018-01-07,Newcastle,Exeter,28,20,W,home,48,45,Exeter,Newcastle,20,28,L,away,3
+155,53,57,2018-01-07,Wasps,Saracens,15,38,L,home,53,57,Saracens,Wasps,38,15,W,away,-4
+157,51,34,2018-02-09,Bath,Northampton,32,9,W,home,51,34,Northampton,Bath,9,32,L,away,17
+158,28,39,2018-02-10,Saracens,Newcastle,25,3,W,home,28,87,Newcastle,Saracens,3,25,L,away,-11
+161,11,50,2018-02-10,Exeter,Worcester,5,6,L,home,11,50,Worcester,Exeter,6,5,W,away,-39
+162,41,34,2018-02-10,Gloucester,Leicester,24,17,W,home,41,34,Leicester,Gloucester,17,24,L,away,7
+163,22,33,2018-02-10,London Irish,Sale,9,13,L,home,22,33,Sale,London Irish,13,9,W,away,-11
+167,66,50,2018-02-11,Harlequins,Wasps,22,44,L,home,66,45,Wasps,Harlequins,44,22,W,away,16
+168,16,24,2018-02-16,Sale,Saracens,3,13,L,home,16,24,Saracens,Sale,13,3,W,away,-8
+169,41,77,2018-02-16,Newcastle,Bath,29,12,W,home,41,77,Bath,Newcastle,12,29,L,away,-36
+175,40,80,2018-02-17,Worcester,Gloucester,25,15,W,home,40,80,Gloucester,Worcester,15,25,L,away,-40
+176,42,38,2018-02-17,Northampton,London Irish,25,17,W,home,42,38,London Irish,Northampton,17,25,L,away,4
+177,51,67,2018-02-17,Leicester,Harlequins,33,18,W,home,51,67,Harlequins,Leicester,18,33,L,away,-16
+179,20,43,2018-02-18,Wasps,Exeter,13,7,W,home,20,57,Exeter,Wasps,7,13,L,away,-23
+180,50,34,2018-02-24,Gloucester,Wasps,25,25,D,home,50,34,Wasps,Gloucester,25,25,D,away,16
+181,38,45,2018-02-24,Harlequins,Newcastle,10,28,L,home,38,45,Newcastle,Harlequins,28,10,W,away,-7
+182,65,62,2018-02-24,Bath,Sale,33,32,W,home,65,62,Sale,Bath,32,33,L,away,3
+186,61,43,2018-02-24,Exeter,Northampton,31,30,W,home,61,43,Northampton,Exeter,30,31,L,away,18
+190,31,33,2018-02-25,London Irish,Worcester,22,9,W,home,31,33,Worcester,London Irish,9,22,L,away,-2
+191,48,87,2018-02-25,Saracens,Leicester,20,28,L,home,48,37,Leicester,Saracens,28,20,W,away,-39
+192,59,52,2018-03-03,Northampton,Sale,25,34,L,home,59,52,Sale,Northampton,34,25,W,away,7
+195,41,29,2018-03-03,Gloucester,Newcastle,20,21,L,home,41,29,Newcastle,Gloucester,21,20,W,away,12
+196,39,65,2018-03-04,Worcester,Leicester,5,34,L,home,39,18,Leicester,Worcester,34,5,W,away,-26
+197,25,63,2018-03-04,Harlequins,Bath,20,5,W,home,25,70,Bath,Harlequins,5,20,L,away,-38
+200,40,43,2018-03-04,Wasps,London Irish,24,16,W,home,40,43,London Irish,Wasps,16,24,L,away,-3
+203,36,32,2018-03-04,Exeter,Saracens,24,12,W,home,36,32,Saracens,Exeter,12,24,L,away,4
+204,38,27,2018-03-23,Bath,Exeter,18,20,L,home,38,27,Exeter,Bath,20,18,W,away,11
+206,35,52,2018-03-24,Saracens,Harlequins,24,11,W,home,35,43,Harlequins,Saracens,11,24,L,away,-17
+207,47,43,2018-03-24,Newcastle,Northampton,25,22,W,home,47,43,Northampton,Newcastle,22,25,L,away,4
+209,62,43,2018-03-24,London Irish,Gloucester,29,33,L,home,62,43,Gloucester,London Irish,33,29,W,away,19
+211,83,62,2018-03-24,Sale,Worcester,58,25,W,home,83,29,Worcester,Sale,25,58,L,away,21
+215,31,49,2018-03-25,Leicester,Wasps,16,15,W,home,31,43,Wasps,Leicester,15,16,L,away,-18
+217,55,62,2018-04-06,Sale,Wasps,28,27,W,home,55,62,Wasps,Sale,27,28,L,away,-7
+219,53,48,2018-04-07,Bath,Leicester,19,34,L,home,53,48,Leicester,Bath,34,19,W,away,5
+221,76,54,2018-04-07,Northampton,Saracens,13,63,L,home,76,29,Saracens,Northampton,63,13,W,away,22
+223,40,55,2018-04-07,Harlequins,London Irish,5,35,L,home,40,55,London Irish,Harlequins,35,5,W,away,-15
+225,40,48,2018-04-07,Worcester,Newcastle,27,13,W,home,40,48,Newcastle,Worcester,13,27,L,away,-8
+227,56,48,2018-04-08,Exeter,Gloucester,46,10,W,home,56,48,Gloucester,Exeter,10,46,L,away,8
+229,65,30,2018-04-13,Newcastle,Sale,35,30,W,home,65,30,Sale,Newcastle,30,35,L,away,35
+230,46,69,2018-04-14,Gloucester,Harlequins,37,9,W,home,46,82,Harlequins,Gloucester,9,37,L,away,-23
+233,48,48,2018-04-14,Leicester,Northampton,21,27,L,home,48,48,Northampton,Leicester,27,21,W,away,0
+235,45,62,2018-04-14,Wasps,Worcester,30,15,W,home,45,62,Worcester,Wasps,15,30,L,away,-17
+238,47,28,2018-04-15,Saracens,Bath,41,6,W,home,47,28,Bath,Saracens,6,41,L,away,19
+239,50,48,2018-04-15,London Irish,Exeter,5,45,L,home,50,48,Exeter,London Irish,45,5,W,away,2
+240,48,48,2018-04-27,Leicester,Newcastle,23,25,L,home,48,48,Newcastle,Leicester,25,23,W,away,0
+243,57,44,2018-04-28,Worcester,Harlequins,44,13,W,home,57,44,Harlequins,Worcester,13,44,L,away,13
+244,63,69,2018-04-28,Gloucester,Bath,20,43,L,home,63,69,Bath,Gloucester,43,20,W,away,-6
+246,53,48,2018-04-28,Exeter,Sale,34,19,W,home,53,48,Sale,Exeter,19,34,L,away,5
+250,65,48,2018-04-29,London Irish,Saracens,14,51,L,home,65,48,Saracens,London Irish,51,14,W,away,17
+251,65,62,2018-04-29,Wasps,Northampton,36,29,W,home,65,62,Northampton,Wasps,29,36,L,away,3
+252,61,36,2018-05-05,Newcastle,Wasps,22,39,L,home,61,36,Wasps,Newcastle,39,22,W,away,25
+254,58,53,2018-05-05,Harlequins,Exeter,17,41,L,home,58,53,Exeter,Harlequins,41,17,W,away,5
+255,74,37,2018-05-05,Saracens,Gloucester,62,12,W,home,74,44,Gloucester,Saracens,12,62,L,away,37
+257,48,62,2018-05-05,Sale,Leicester,13,35,L,home,48,62,Leicester,Sale,35,13,W,away,-14
+258,82,48,2018-05-05,Bath,London Irish,63,19,W,home,82,62,London Irish,Bath,19,63,L,away,34
+263,56,42,2018-05-05,Northampton,Worcester,32,24,W,home,56,42,Worcester,Northampton,24,32,L,away,14
+264,41,27,2018-05-19,Exeter,Newcastle,36,5,W,home,41,27,Newcastle,Exeter,5,36,L,away,14
+267,90,44,2018-05-19,Saracens,Wasps,57,33,W,home,90,44,Wasps,Saracens,33,57,L,away,46
+269,37,44,2018-05-26,Exeter,Saracens,10,27,L,home,37,44,Saracens,Exeter,27,10,W,away,-7
